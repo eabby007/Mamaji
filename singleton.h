@@ -7,7 +7,7 @@
 #include<cstdlib>
 using namespace std;
 */
-class singleton
+class singleton  // declaration of a class
 {
 	int data_;
 	static singleton * ptr;
